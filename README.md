@@ -85,6 +85,8 @@
 
 <img width="945" height="440" alt="Image" src="https://github.com/user-attachments/assets/17c6e9c9-9fef-43c4-82ce-ead41f59aede" />
 
+<img width="947" height="439" alt="Image" src="https://github.com/user-attachments/assets/37671a3d-ee26-45aa-8cd7-0b77b0bde362" />
+
 ## ✨ Frontend Part
 
 <img width="946" height="441" alt="Image" src="https://github.com/user-attachments/assets/2aecbc74-aaae-4bd1-8468-0e3bcfe8de36" />
@@ -94,6 +96,10 @@
 ## ✨ Student feedback
 
 <img width="946" height="443" alt="Image" src="https://github.com/user-attachments/assets/105f9bfc-8cca-4340-8cee-60b8827260b9" />
+
+## ✨ Sign in & Sign up page
+
+<img width="947" height="442" alt="Image" src="https://github.com/user-attachments/assets/6e4e087d-2046-4e6a-ab08-437183ca6f55" />
 
 
 <table>
