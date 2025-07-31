@@ -229,7 +229,7 @@ Get AcademicPal running locally in just a few steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Hari-hara7/Academic-pal.git
+git clone https://github.com/MeAkash77/Academic-pal.git
 cd Academic-pal
 
 # Setup Frontend (Next.js)
@@ -256,7 +256,7 @@ python app.py
 
 ```bash
 # Clone and enter directory
-git clone https://github.com/Hari-hara7/Academic-pal.git
+git clone https://github.com/MeAkash77/Academic-pal.git
 cd Academic-pal
 
 # Build and run with Docker
@@ -491,7 +491,7 @@ We are committed to fostering a welcoming and inclusive community. Please read o
 
 ### 📞 Reporting Issues
 
-If you experience or witness unacceptable behavior, please report it to [academicpal.help@gmail.com](mailto:academicpal.help@gmail.com).
+If you experience or witness unacceptable behavior, please report it to [iakshu845@gmail.com](mailto:iakshu845@gmail.com).
 
 ---
 
@@ -556,40 +556,13 @@ Join our thriving community of students, educators, and developers!
 
 </div>
 
-### 📚 Resources
-
-- 📖 **Documentation**: [docs.academicpal.in](https://docs.academicpal.in)
-- 🎥 **Video Tutorials**: [YouTube Channel](https://youtube.com/@academicpal)
-- 📰 **Blog**: [blog.academicpal.in](https://blog.academicpal.in)
-- 📧 **Newsletter**: [Subscribe](https://academicpal.in/newsletter)
-
-### 🎯 Support Channels
-
-- 💬 **Community Discord**: Real-time chat and support
-- 📧 **Email Support**: [academicpal.help@gmail.com](mailto:academicpal.help@gmail.com)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Hari-hara7/Academic-pal/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/Hari-hara7/Academic-pal/discussions)
-
----
-
-## 📧 Contact
-
-### 👨‍💻 Meet the Creator
-
-<div align="center">
-  <h3>🌟 Built with ❤️ by <a href="https://hariharanath.is-cod.in/">Hariharanath</a></h3>
-  <p><em>Full Stack Developer & Founder @ AcademicPal</em></p>
-</div>
-
-**Hariharanath** is a passionate full-stack developer dedicated to revolutionizing education through technology. With expertise in modern web development and a deep understanding of student needs, he created AcademicPal to bridge the gap between traditional learning and digital innovation.
-
 ### 🚀 Current Focus
 - 🎓 Building AI-enhanced student ecosystems
 - 🌐 Scaling AcademicPal for global reach
 - 🤝 Fostering collaborative learning communities
 - 💡 Pioneering innovative educational technologies
 
-### 📱 Connect with Hariharanath
+### 📱 Connect with Me
 
 <div align="center">
 
