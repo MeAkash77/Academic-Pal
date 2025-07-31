@@ -660,7 +660,7 @@ AcademicPal was born from the belief that technology should democratize educatio
   <p><strong>Join thousands of students already using AcademicPal!</strong></p>
   
   [![Try AcademicPal](https://img.shields.io/badge/🌐_Try_AcademicPal_Now-FF6B6B?style=for-the-badge&logoColor=white)](https://www.academicpal.in)
-  [![Give it a Star](https://img.shields.io/badge/⭐_Give_it_a_Star-FFD700?style=for-the-badge&logoColor=black)](https://github.com/Hari-hara7/Academic-pal/stargazers)
+  [![Give it a Star](https://img.shields.io/badge/⭐_Give_it_a_Star-FFD700?style=for-the-badge&logoColor=black)](https://github.com/MeAkash77/Academic-pal/stargazers)
   
   <p><em>Made with 💖 for students, by students</em></p>
   <p><strong>AcademicPal – Because studying should be smart, social, and stress-free.</strong></p>
