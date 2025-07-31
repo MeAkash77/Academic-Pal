@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.academicpal.in">🔗 Try AcademicPal Now</a> •
+  <a href="https://academic-pal-rose.vercel.app/">🔗 Try AcademicPal Now</a> •
   <a href="#-quick-start">⚡ Quick Start</a> •
   <a href="#-documentation">📚 Documentation</a> •
   <a href="#-contributing">🤝 Contributing</a>
