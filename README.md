@@ -8,8 +8,8 @@
 
 [![Website](https://img.shields.io/badge/🌐_Visit-Website-blueviolet?style=for-the-badge)](https://www.academicpal.in)
 [![License: MIT](https://img.shields.io/github/license/Hari-hara7/Academic-pal?style=for-the-badge&color=green)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Hari-hara7/Academic-pal?style=for-the-badge&color=yellow)](https://github.com/Hari-hara7/Academic-pal/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Hari-hara7/Academic-pal?style=for-the-badge&color=blue)](https://github.com/Hari-hara7/Academic-pal/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/Hari-hara7/Academic-pal?style=for-the-badge&color=yellow)](https://github.com/MeAkash77/Academic-pal/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Hari-hara7/Academic-pal?style=for-the-badge&color=blue)](https://github.com/MeAkash77/Academic-pal/network/members)
 
 [![Issues](https://img.shields.io/github/issues/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/Hari-hara7/Academic-pal/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/Hari-hara7/Academic-pal/pulls)
