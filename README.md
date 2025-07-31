@@ -87,8 +87,13 @@
 
 ## ✨ Frontend Part
 
+<img width="946" height="441" alt="Image" src="https://github.com/user-attachments/assets/2aecbc74-aaae-4bd1-8468-0e3bcfe8de36" />
+
 <img width="946" height="440" alt="Image" src="https://github.com/user-attachments/assets/2b750f16-b4d2-4b2a-8508-366b88a66df5" />
 
+## ✨ Student feedback
+
+<img width="946" height="443" alt="Image" src="https://github.com/user-attachments/assets/105f9bfc-8cca-4340-8cee-60b8827260b9" />
 
 
 <table>
