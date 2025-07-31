@@ -6,15 +6,15 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Visit-Website-blueviolet?style=for-the-badge)](https://www.academicpal.in)
+[![Website](https://img.shields.io/badge/🌐_Visit-Website-blueviolet?style=for-the-badge)](https://academic-pal-rose.vercel.app/)
 [![License: MIT](https://img.shields.io/github/license/Hari-hara7/Academic-pal?style=for-the-badge&color=green)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Hari-hara7/Academic-pal?style=for-the-badge&color=yellow)](https://github.com/MeAkash77/Academic-pal/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Hari-hara7/Academic-pal?style=for-the-badge&color=blue)](https://github.com/MeAkash77/Academic-pal/network/members)
 
-[![Issues](https://img.shields.io/github/issues/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/Hari-hara7/Academic-pal/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/Hari-hara7/Academic-pal/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/Hari-hara7/Academic-pal/commits)
-[![Contributors](https://img.shields.io/github/contributors/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/Hari-hara7/Academic-pal/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/MeAkash77/Academic-pal/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/MeAkash77/Academic-pal/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/MeAkash77/Academic-pal/commits)
+[![Contributors](https://img.shields.io/github/contributors/Hari-hara7/Academic-pal?style=for-the-badge)](https://github.com/MeAkash77/Academic-pal/graphs/contributors)
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
