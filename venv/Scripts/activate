@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\KIIT\Desktop\Academic-Pal-main\venv"
+=======
+VIRTUAL_ENV="C:\Users\KIIT\Desktop\Academic-pal-main\venv"
+>>>>>>> 62156cf8b61b65c55a4d64d1166aa388713b560d
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
